@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+dist/
+.idea
+npm-debug.log.*
+npm-debug.log
+r.cnpmjs.org/
+coverage/
+package-lock.json
+_logs/
+node_modules/
+_cacache/
+_cacache
+_locks/
+anonymous-cli-metrics.json
